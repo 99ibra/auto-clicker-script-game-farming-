@@ -1,6 +1,33 @@
-# auto-clicker-script-game-farming-
-This was made and used for a specific social media based game(cant name anything here incase of further backlash(ps: i have been hardware banned)), but its highly customizable and ready to use with other games that requires repeated actions and farming mechanism inorder to advance ;)
+# 🔹 Python Auto Clicker & Automation Toolkit
 
+Automate repetitive mouse and keyboard tasks with ease.  
+Simple scripts, powerful results — perfect for learning automation or speeding up workflows.
 
-This scipt was used to spam inventory purchase and sale, as well as watchingn ads repeatedly to obtain in-game rewards.
-Feel free to customize and run it however you like. First you have to obtain the coordinates on you monitor screen on where you would like your cursor to auto click and then you can set a delay between each clicks.
+## ⚡ Features
+
+- Capture mouse coordinates in real-time
+- Multi-step click automation with adjustable delays
+- Type text automatically during clicks
+- Loop tasks for long-running automation
+- Stop anytime with ESC key
+- Easy to customize for any workflow
+
+## 📂 Scripts Included
+
+1. **Coordinate Finder** – Get exact X, Y positions for clicks  
+2. **Auto Click Script** – Click multiple points in sequence  
+3. **Click + Type Script** – Combine clicking with typing input  
+4. **Full Automation Script** – Run long cycles with refresh, navigation, and actions
+
+## ⚙️ How to Use
+
+1. Run the coordinate finder to get screen positions  
+2. Update the coordinates in your script  
+3. Adjust delays as needed  
+4. Run the script — automation starts immediately  
+5. Press `ESC` to stop at any time
+
+## 🛠️ Requirements
+
+- Python 3  
+- Install dependencies:  
