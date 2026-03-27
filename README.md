@@ -31,3 +31,16 @@ Simple scripts, powerful results — perfect for learning automation or speeding
 
 - Python 3  
 - Install dependencies:  
+
+pip install pyautogui keyboard
+
+## ⚠️ Notes
+
+- Coordinates depend on your screen resolution and window placement  
+- Don’t move windows or the mouse while the script runs  
+- Adjust timing for your setup as needed
+
+## 📌 Disclaimer
+
+For learning and general automation purposes only.  
+Use responsibly and follow the rules of any software or platform you automate.
